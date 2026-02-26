@@ -1,9 +1,0 @@
-flask>=3.0.0
-flask-socketio>=5.3.6
-httpx[http2]>=0.27.0
-requests>=2.31.0
-beautifulsoup4>=4.12.0
-lxml>=5.1.0
-esprima>=4.0.1
-playwright>=1.44.0
-eventlet>=0.35.1
